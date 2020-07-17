@@ -1,0 +1,10 @@
+TestScripts/getallHeaders.class
+TestScripts/TestGet.class
+TestScripts/ValidateResponse.class
+TestScripts/TestPut.class
+TestScripts/ValidateResponbse2.class
+TestScripts/TestPost.class
+TestScripts/Queeryparam.class
+TestScripts/TestDelete.class
+TestScripts/HeaderResponseValidation.class
+TestScripts/HeadersGet.class
